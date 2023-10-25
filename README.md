@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zahariromanov
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello world, my name is @zahariromanov
+- 👀 I’m most interested in software development and security research.
+- 🌱 I’m currently exploring topics including Computer Science, Cybersecurity and Information Assurance, Electrical and Computer Engineering, as well as Quantum Mechanics and Computing.
+- 💞️ I’m looking to collaborate on research and / or developmental projects.
+- 📫 You can easily reach me at zahariromanov@pm.me to schedule an appointment.
 
 <!---
 zahariromanov/zahariromanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,83 +20,88 @@ PO BOX 1234             Gate City VA 24251 USA
 Education
 ---------
 
-2010-2014 (expected)
-:   **MSc, Cybersecurity and Information Assurance*; Western Governor's University (Salt Lake City, UT)
+2023 - Current
+:   **BSc, Computer Science (ABET Accredited)**; Western Governor's University (Salt Lake City, UT)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Software Engineering**; Western Governor's University (Salt Lake City, UT)
-
-    *Minor: Awesomeology*
+    Major Coursework: 
+    
+      Data Structures and Algorithms 
+      Data Management 
+      Artificial Intelligence 
+      Java 
+      Software Design and Quality Assurance 
+      Software Engineering 
+      Back-End Programming
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Self-Employed - Qubisoft Technologies LLC dba QubiLabs**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+> Qubisoft Technologies is a startup software development and security research company dedicated to assisting local small businesses with their technical needs as well as contributing to local public education. Some of the specific services that we offer include :
 
-* First item
+    Software Analysis and Design
+    Software Development
+    Security Research / Consulting
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Check us out at [QubiLabs](http://qubilabs.com).
 
-**That Other Job You Had**
+**Help Desk - TPUSA INC**
 
-Also with a short description.
+> At TPUSA, I have been trusted within out client operations team to provide contractual services for three campaigns within various industries including :
 
-Technical Experience
---------------------
+* Financial Services Client Support
+* Private Security Technical Support
+* Manufacturing Technical Support
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Enlisted - Department of Defense**
+I was also enlisted for a period of 8 years with the following occupations :
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    Motor Transport Operator
+    Military Police Officer
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Research & Development Projects
+-------------------------------
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+* Artificial Intelligence / Machine Learning
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+      Natural Language Processing / LLM's
+      Predictive Modelling / Data Analytics
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+* Security Research
+  
+      Reverse Engineering
+      Exploit Development
+      Physical / Digital Penetration Testing
 
-[ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Additional Skills
+-----------------
+
+* Programming Languages
+
+      Python
+      Java
+      C#
+      C/C++
+      HTML / CSS
+      Markdown
+      JavaScript / jQuery
+      PHP / SQL
+      Ruby
+      MATLAB
+
+[ref]: https://github.com/zahariromanov
 
 * Human Languages:
 
      * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * French
+     * Russian
 
-* Random tidbit
+My greatest hope is that through continuous leaning and development that I will be able to make a difference in my community by developing technologies to advance and secure a largely disadvantaged population. 
 
-* Other sort of impressive-sounding thing you did
+>
+>   "Your task it not to foresee the future, but to enable it." - Antoine St.Exupery
+>
